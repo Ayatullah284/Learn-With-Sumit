@@ -1,0 +1,20 @@
+
+
+
+  
+// var x = 5;
+
+
+// function sleep(){
+
+// }
+
+// sleep();
+
+let x = 5;
+if(true){
+    let x = 10;
+    console.log(x);
+};
+
+console.log(x);
